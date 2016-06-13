@@ -1,0 +1,9 @@
+[package]
+name = "pointer-width"
+version = "0.1.1"
+authors = ["York Xiang <bombless@126.com>"]
+description = "Provides const for pointer size"
+license = "MIT"
+homepage = "https://github.com/bombless/pointer-width"
+
+[dependencies]
